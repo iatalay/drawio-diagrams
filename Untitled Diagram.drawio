@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T10:20:36.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="uU5w1pF0Rd3oXqn1G7rK" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T10:22:44.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="ZJoOn77A-plsbGn_QPr6" version="14.4.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -94,6 +94,12 @@
         </mxCell>
         <mxCell id="wwj9QO_b-XbSle_AMWVH-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;labelBackgroundColor=none;fontColor=#ffffff;labelBorderColor=none;direction=south;strokeWidth=2;gradientColor=#ffffff;fillColor=#99FFCC;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wwj9QO_b-XbSle_AMWVH-23" value="SHIPPER LOGSTASH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#00CC00;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wwj9QO_b-XbSle_AMWVH-24" value="INDEXER LOGSTASH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#00CC00;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
