@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T10:12:53.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="3UrsZjxnt1DFG1yq2xsa" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T10:14:41.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="pRwtp8jORjzyHG2vnb9G" version="14.4.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -78,13 +78,13 @@
           <mxGeometry x="930" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wwj9QO_b-XbSle_AMWVH-6" value="LOGSTASH" style="swimlane;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;strokeWidth=1;html=1;rotation=90;fillColor=#99FFCC;gradientColor=#CCFFE6;fontColor=#00CC00;strokeColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="300" y="293.75" width="320" height="132.5" as="geometry" />
+          <mxGeometry x="300" y="298.28999999999996" width="320" height="123.43" as="geometry" />
         </mxCell>
-        <mxCell id="wwj9QO_b-XbSle_AMWVH-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;labelBackgroundColor=none;fontColor=#ffffff;labelBorderColor=none;direction=south;strokeColor=#001DBC;strokeWidth=2;fillColor=#CCE5FF;gradientColor=#ffffff;" vertex="1" parent="wwj9QO_b-XbSle_AMWVH-6">
-          <mxGeometry x="120" y="-13.75" width="60" height="160" as="geometry" />
+        <mxCell id="wwj9QO_b-XbSle_AMWVH-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;labelBackgroundColor=none;fontColor=#ffffff;labelBorderColor=none;direction=south;strokeWidth=2;gradientColor=#ffffff;fillColor=#99FFCC;strokeColor=#009900;" vertex="1" parent="wwj9QO_b-XbSle_AMWVH-6">
+          <mxGeometry x="125" y="-63.28999999999999" width="60" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="wwj9QO_b-XbSle_AMWVH-10" value="INDEXER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;fontColor=#6666FF;fontStyle=1" vertex="1" parent="wwj9QO_b-XbSle_AMWVH-6">
-          <mxGeometry x="120" y="56.25" width="70" height="20" as="geometry" />
+        <mxCell id="wwj9QO_b-XbSle_AMWVH-10" value="INDEXER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;fontStyle=1;fontColor=#00CC00;" vertex="1" parent="wwj9QO_b-XbSle_AMWVH-6">
+          <mxGeometry x="125" y="42.96" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
