@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T11:29:02.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="AFKpxZomzS6W1kvPznz6" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T11:31:50.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="rviwul7b-dEl2Z3XwUB3" version="14.4.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uSduwXZltjfLBemW7_SH-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;KAFKA&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;direction=west;verticalAlign=middle;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF3333;rotation=90;flipV=1;flipH=0;fontSize=20;strokeWidth=2;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="uSduwXZltjfLBemW7_SH-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;KAFKA&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;direction=west;verticalAlign=middle;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;flipV=1;flipH=0;fontSize=20;strokeWidth=2;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="460" y="315" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uSduwXZltjfLBemW7_SH-2" value="ELASTICSEARCH" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;fillColor=#cce5ff;rounded=0;shadow=0;sketch=0;gradientColor=#ffffff;swimlaneFillColor=none;strokeColor=#3333FF;strokeWidth=2;fontColor=#6666FF;" parent="1" vertex="1">
@@ -90,12 +90,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wwj9QO_b-XbSle_AMWVH-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;labelBackgroundColor=none;fontColor=#ffffff;labelBorderColor=none;direction=south;strokeWidth=2;gradientColor=#ffffff;fillColor=#99FFCC;strokeColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="460" y="245" width="60" height="230" as="geometry" />
+          <mxGeometry x="480" y="245" width="60" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="wwj9QO_b-XbSle_AMWVH-23" value="SHIPPER LOGSTASH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#00CC00;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="390" y="340" width="220" height="30" as="geometry" />
+        <mxCell id="wwj9QO_b-XbSle_AMWVH-23" value="SHIPPER LOGSTASH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;rotation=90;fontColor=#666600;" parent="1" vertex="1">
+          <mxGeometry x="405" y="340" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wwj9QO_b-XbSle_AMWVH-24" value="INDEXER LOGSTASH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#00CC00;rotation=90;" parent="1" vertex="1">
+        <mxCell id="wwj9QO_b-XbSle_AMWVH-24" value="INDEXER LOGSTASH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;rotation=90;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="660" y="340" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wwj9QO_b-XbSle_AMWVH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.094;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;strokeWidth=2;fontSize=20;fontColor=#000000;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" source="wwj9QO_b-XbSle_AMWVH-32" target="uSduwXZltjfLBemW7_SH-1" edge="1">
@@ -122,7 +122,7 @@
         <mxCell id="wwj9QO_b-XbSle_AMWVH-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwj9QO_b-XbSle_AMWVH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=60;exitPerimeter=0;entryX=0.365;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;strokeWidth=2;fontSize=20;fontColor=#000000;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" source="wwj9QO_b-XbSle_AMWVH-40" target="wwj9QO_b-XbSle_AMWVH-18" edge="1">
+        <mxCell id="8VmfA-hr0g4hkEOrzply-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=65;entryDy=60;entryPerimeter=0;fontColor=#666600;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" edge="1" parent="1" source="wwj9QO_b-XbSle_AMWVH-40" target="wwj9QO_b-XbSle_AMWVH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wwj9QO_b-XbSle_AMWVH-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;fontSize=20;" parent="1" vertex="1">
